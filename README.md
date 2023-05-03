@@ -10,7 +10,7 @@
   <summary>Ad-hoc / Greedy problems</summary>
   
   - [codeforces_767A](https://codeforces.com/contest/767/problem/A) 
-  - [Solution (cpp)](problems_solutions.md/codeforces_767A.cpp)
+  - [Solution (cpp)](problems_solutions/codeforces_767A.cpp)
 
 </details>
 
@@ -18,6 +18,6 @@
   <summary>Data Structures / Binary Search problems</summary>
   
   - [codeforces_978F](https://codeforces.com/contest/978/problem/F) 
-  - [Solution (cpp)](problems_solutions.md/codeforces_978F.cpp)
+  - [Solution (cpp)](problems_solutions/codeforces_978F.cpp)
 
 </details>
