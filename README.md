@@ -9,6 +9,7 @@
   
   - [Codeforces 767A - A. SnackTower](https://codeforces.com/contest/767/problem/A) | [Solution (cpp)](problems_solutions/codeforces_767A.cpp)
   -   [Codeforces 978E - E. Bus Video System](https://codeforces.com/contest/978/problem/E) | [Solution (cpp)](problems_solutions/codeforces_978E.cpp)
+  -   [Codeforces 978C - C - Letters](https://codeforces.com/contest/978/problem/C) | [Solution (cpp)](problems_solutions/codeforces_978C.cpp)
 
 </details>
 
