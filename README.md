@@ -7,10 +7,10 @@
 <details>
   <summary>Ad-hoc / Greedy problems</summary>
   
-  - [Codeforces 767A - A. SnackTower](https://codeforces.com/contest/767/problem/A) | [Solution (cpp)](problems_solutions/codeforces_767A.cpp)
-  -   [Codeforces 978C - C - Letters](https://codeforces.com/contest/978/problem/C) | [Solution (cpp)](problems_solutions/codeforces_978C.cpp)
-  -   [Codeforces 978E - E. Bus Video System](https://codeforces.com/contest/978/problem/E) | [Solution (cpp)](problems_solutions/codeforces_978E.cpp)
-  
+  - [Codeforces 767 - A. SnackTower](https://codeforces.com/contest/767/problem/A) | [Solution (cpp)](problems_solutions/codeforces_767A.cpp)
+  -   [Codeforces 978 - C - Letters](https://codeforces.com/contest/978/problem/C) | [Solution (cpp)](problems_solutions/codeforces_978C.cpp)
+  -   [Codeforces 978 - E. Bus Video System](https://codeforces.com/contest/978/problem/E) | [Solution (cpp)](problems_solutions/codeforces_978E.cpp)
+  -   [CodeForces 978 - G. Petya's Exams](https://codeforces.com/contest/978/problem/G) | [Solution (cpp)](problems_solutions/codeforces_978G.cpp)
 
 </details>
 
