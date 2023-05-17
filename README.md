@@ -1,8 +1,11 @@
-# My Data Structures And Algorithms Solutions
+# My Structures / Algorithms implementations & Problem solutions
 
-### This is where I upload some of my Data Structures / Algorithms implementations and problem solutions.
+This is where I upload some of my Data Structures / Algorithms implementations and problem solutions.
+Feel free to browse and use the codes provided in this repo :)
 
-#### Feel free to browse and use the codes provided in this repo :)
+I will be updating it with more problems.
+
+Feel free to check my [LeetCode](https://leetcode.com/mrmosa02/) and my [Codeforces](https://codeforces.com/profile/mosalah_02) accounts for more.
 
 <details>
   <summary>Ad-hoc / Greedy problems</summary>
