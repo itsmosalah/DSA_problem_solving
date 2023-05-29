@@ -10,16 +10,17 @@ Feel free to check my [LeetCode](https://leetcode.com/mrmosa02/) and my [Codefor
 <details>
   <summary>Ad-hoc / Greedy problems</summary>
   
-  - [Codeforces 767 - A. SnackTower](https://codeforces.com/contest/767/problem/A) | [Solution (cpp)](problems_solutions/codeforces_767A.cpp)
-  -   [Codeforces 978 - C - Letters](https://codeforces.com/contest/978/problem/C) | [Solution (cpp)](problems_solutions/codeforces_978C.cpp)
-  -   [Codeforces 978 - E. Bus Video System](https://codeforces.com/contest/978/problem/E) | [Solution (cpp)](problems_solutions/codeforces_978E.cpp)
-  -   [CodeForces 978 - G. Petya's Exams](https://codeforces.com/contest/978/problem/G) | [Solution (cpp)](problems_solutions/codeforces_978G.cpp)
+  -   [CodeForces 767A - SnackTower](https://codeforces.com/contest/767/problem/A) | [Solution (cpp)](problems_solutions/codeforces_767A.cpp)
+  -   [CodeForces 978C - Letters](https://codeforces.com/contest/978/problem/C) | [Solution (cpp)](problems_solutions/codeforces_978C.cpp)
+  -   [CodeForces 978E - Bus Video System](https://codeforces.com/contest/978/problem/E) | [Solution (cpp)](problems_solutions/codeforces_978E.cpp)
+  -   [CodeForces 1829G - Hits Different](https://codeforces.com/contest/1829/problem/G) | [Solution (cpp)](problems_solutions/codeforces_1829G.cpp)
+  -   [CodeForces 978G - Petya's Exams](https://codeforces.com/contest/978/problem/G) | [Solution (cpp)](problems_solutions/codeforces_978G.cpp)
 
 </details>
 
 <details>
   <summary>Data Structures / Binary Search problems</summary>
   
-  - [Codeforces 978F - F. Mentors](https://codeforces.com/contest/978/problem/F) | [Solution (cpp)](problems_solutions/codeforces_978F.cpp)
+  - [Codeforces 978F - Mentors](https://codeforces.com/contest/978/problem/F) | [Solution (cpp)](problems_solutions/codeforces_978F.cpp)
 
 </details>
