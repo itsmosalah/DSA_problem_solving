@@ -9,11 +9,13 @@ Feel free to check my [LeetCode](https://leetcode.com/mrmosa02/) and my [Codefor
 
 <details>
   <summary>My Data Structures / Algorithms implementations</summary>
+  
   -  [Matrix Chain Multiplication](problems_solutions/codeforces_767A.cpp) : Get the minimum number of operations to multiply a list of 2D matrices given their dimensions. (Dynamic programming)
 
 </details>
 <details>
   <summary>Ad-hoc / Greedy problems</summary>
+
   -   [CodeForces 767A - SnackTower](https://codeforces.com/contest/767/problem/A) | [Solution (cpp)](DSA_implementations/matrixChainMultiplication.cpp)
   
   -   [CodeForces 1690B - Array Decrements](https://codeforces.com/problemset/problem/1690/B) | [Solution (cpp)](problems_solutions/codeforces_1690B.cpp)
