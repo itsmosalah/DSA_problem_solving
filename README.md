@@ -1,6 +1,6 @@
-# My Structures / Algorithms implementations & Problem solutions
+# Data Structures & Algorithms problem solving
 
-This is where I upload some of my Data Structures / Algorithms implementations and problem solutions.
+This is where I upload some of my problem solutions for Data Structures & Algorithms.
 Feel free to browse and use the codes provided in this repo :)
 
 I will be updating it with more problems.
